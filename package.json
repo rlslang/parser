@@ -1,0 +1,14 @@
+{
+	"name": "@rlsl/parser",
+	"description": "A parser for rlsl",
+	"version": "0.1.0",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"dependencies": {
+		"@rlsl/conveyor-belt": "^1.0.0",
+		"@rlsl/lexer": "^0.1.0"
+	},
+	"devDependencies": {
+		"@rlsl/types": "^0.1.0"
+	}
+}
